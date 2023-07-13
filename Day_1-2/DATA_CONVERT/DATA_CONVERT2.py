@@ -15,4 +15,4 @@ print(a*int(b))
 
 s= int(input("문자 반복 횟수 입력 :"))
 s2 = input('문자열 직접 입력 :')
-print(s*s2)
+print(s*s2)   #문장 반복
