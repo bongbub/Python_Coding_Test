@@ -39,6 +39,6 @@ while 1:
             max_string.append(res)
             
         # 리스트 내부 소수 확인
-        print(max_string)
+    print(max_string)
         # 리스트 중 가장 큰 소수값 출력
-        print(max(max_string))
+    print(max(max_string))
